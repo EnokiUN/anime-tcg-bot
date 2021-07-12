@@ -1,0 +1,7 @@
+discord
+discord-components
+discord-together
+discord-py-slash-command
+requests
+TenGiphPy
+Pillow
